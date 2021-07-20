@@ -1,1 +1,2 @@
-message:Hello my dear friend
+server.port:8181
+user.role:admin
